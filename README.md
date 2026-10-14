@@ -1,3 +1,5 @@
+> **Archived.** This is a frozen pre-pivot snapshot of the project. Active development continues at https://github.com/BichengWang/multi-agents (headless runner and benchmarks for teams of coding agents).
+
 # Multi-Agent Workflows and LLM Experiments
 
 Python workflows built around the OpenAI Agents SDK: route a request to a story,
